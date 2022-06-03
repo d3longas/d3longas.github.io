@@ -1,2 +1,2 @@
-# d3longas.github.io
-My personal portfolio, with my featured repositories.
+# Hi! 👋
+I will post here my featured projects, displaying what i have learned and what i'm currently working on
